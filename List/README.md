@@ -1,5 +1,5 @@
 # LINKED LIST
-
+![linked list](./../linked_list.png)
 
 A linked list is a `linear data structure` which can store data in random location. 
 Every data is paired with an address which points to next consecutive data. The pair of data and pointer is known as `Node`.
