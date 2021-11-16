@@ -26,6 +26,13 @@ Data part stores the data whereas Pointer stores the address of next node. The r
 3. Circular linked list ![Circular linked list](./../img/circular_linked_list.png)
 4. Doubly circular linked list ![Doubly circular linked list](./../img/doubly_circular_linked_list.png)
 
+<!-- advantages -->
+## ADVANTAGES OF USING LINKED LIST OVER ARRAY
+* `SIZE` &nbsp; Linked list can grow and shrink during runtime unlike arrays which has fixed size.
+* `MEMORY ALLOCATION` &nbsp; Static array is allocated with memory during compilation whereas linked list and even dynamic array are provided memory location during runtime.
+* `MEMORY EFFICIENCY` &nbsp; For same number of data members Array use less memory location where as linked list take more memory as each data members should store pointers.
+* `EXECUTION TIME` &nbsp; As arrays are stored in contigious memory elements in array can be accessed faster than nodes in linked list. However insertion, deletion in linked list is faster and easier than that of array.
+
 
 
 

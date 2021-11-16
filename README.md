@@ -9,5 +9,11 @@ Abstract Data Types are focused on what, not how (they're framed declaratively, 
 3. Set
 4. Queue
 
+## LINKED LIST
+![linked list](./img/linked_list.png)
+Linked list is dynamically implemented data structure which gets stored in random memory locations unlike arrays which seeks contigious memory location. <br>
+
+
+
 
 
