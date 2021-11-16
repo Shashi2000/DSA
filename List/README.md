@@ -21,10 +21,10 @@ Data part stores the data whereas Pointer stores the address of next node. The r
 > A pointer that points  to `NULL`, indicating the end node of linked list. 
 
 ## TYPES OF LINKED LIST
-1. Singly linked list
-2. Doubly linked list
-3. Circular linked list
-4. Doubly circular linked list
+1. Singly linked list ![Singly linked list](./../singly_linked_list.png)
+2. Doubly linked list ![Doubly linked list](./../doubly_linked_list.png)
+3. Circular linked list ![Circular linked list](./../circular_linked_list.png)
+4. Doubly circular linked list ![Doubly circular linked list](./../doubly_circular_linked_list.png)
 
 
 
