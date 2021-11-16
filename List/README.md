@@ -20,7 +20,7 @@ Data part stores the data whereas Pointer stores the address of next node. The r
 * tail
 > A pointer that points  to `NULL`, indicating the end node of linked list. 
 
-_TYPES OF LINKED LIST_
+## TYPES OF LINKED LIST
 1. Singly linked list
 2. Doubly linked list
 3. Circular linked list
