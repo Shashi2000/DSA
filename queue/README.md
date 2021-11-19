@@ -29,3 +29,7 @@ The difference between stacks and queues is in removing. In a stack we remove th
   In a circular queue, the last element points to the initial element creating a circular link. 
   The main advantage of a circular queue over a simple queue is better memory  utilization. 
   If the last position is full and the first position is empty, we can insert an element in the first position. This action is not possible in a simple queue. 
+  
+## IMPLEMENTATION OF QUEUE USING LINKED LIST
+   The use of array was static method of implementing `QUEUE` whereas with the use of `SINGLY LINKED LIST` we can allocate memory for queue during runtime. This 
+   makes efficient use of memory and even eliminates the burden to predict the memory size before compilation.
