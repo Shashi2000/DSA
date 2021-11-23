@@ -41,30 +41,19 @@ int main()
             is_stack_empty();
             break;
           case DISPLAY:         // DISPLAY = 5
-          {
             stack_display();
-            break;
-          }
+            break;              
           case INITIALIZE:      // INITIALIZE = 6 
-          {
             initialize_stack();
-            break;  
-          }
+            break;              
           case EXIT:            // EXIT = 7
-          {
             printf("\nTerminating the program.\n");
-            exit(0);  
-          }
-            
+            exit(0);              
           default:
             printf("Please enter a valid choice: (1 | 2 | 3 | 4 | 5 | 6 | 7)\n");
-        }
-         
-         
+        }     
     }
     while(choice != 7);
-    
-    
 }
 
 
