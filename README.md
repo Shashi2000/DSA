@@ -13,6 +13,12 @@ Abstract Data Types are focused on what, not how (they're framed declaratively, 
 ![linked list](./img/linked_list.png)
 Linked list is dynamically implemented data structure which gets stored in random memory locations unlike arrays which seeks contigious memory location. <br>
 
+## Stack
+Stack is collection of data in contigious memory location where insertion and deletion happens from the top of the stack.
+
+## Queue
+Queue is another popular data structure that inserts elements from rear and deletion happens from the front of the queue.
+
 
 
 
